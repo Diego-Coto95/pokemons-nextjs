@@ -20,6 +20,7 @@ export const NoFavorites = () => {
         css={{
           opacity: 0.1,
         }}
+        alt="No hay favoritos"
       />
     </Container>
   );
